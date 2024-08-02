@@ -15,16 +15,23 @@ Responsive Design: Incorporates CSS for styling to ensure a seamless and user-fr
 
 ## Technologies Used
 
-Frontend:
+### Frontend
+- **HTML**
+  - Structure and layout of the web pages.
+- **CSS**
+  - Styling and design of the web pages.
+- **JavaScript**
+  - Interactivity and dynamic content.
+  - **AJAX**
+    - Asynchronous requests for data retrieval and updating the content without reloading the page.
 
-HTML
-CSS
-JavaScript (AJAX)
-Backend:
+### Backend
+- **PHP**
+  - Server-side logic and data processing.
 
-PHP
-Database:
+### Database
+- **MySQL**
+  - Database management and storage of application data.
 
-MySQL
 
 ## Project Structure
