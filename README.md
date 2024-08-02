@@ -35,3 +35,6 @@ Responsive Design: Incorporates CSS for styling to ensure a seamless and user-fr
 
 
 ## Project Structure
+![image](https://github.com/rks2601/ChatApplication/assets/122681297/f1203ea2-b229-42c8-9e0e-4e4b18020275)
+![image](https://github.com/rks2601/ChatApplication/assets/122681297/23985f9a-ae78-480a-9241-06655f697d45)
+![image](https://github.com/rks2601/ChatApplication/assets/122681297/76164651-195c-4d6a-ac36-83dd732eb66b)
